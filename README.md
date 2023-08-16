@@ -9,9 +9,9 @@ for something else on my portfolio. 👋
 
 #### - 🔭 I’m currently studing Data Science 
 #### - 🌱 I’m currently learning HarvardCS50P ; MIT Linear Regression to Deep Learning
-#### - 👯 I’m looking to collaborate on Fundação Estudar
+#### - 👯 I’m collaborating on Fundação Estudar
 #### - 💬 Ask me about SQL, Python, R, Algorithms, Economy, Management
 #### - 📫 How to reach me: rafaelfparish@gmail.com
 #### - 😄 Pronouns: he/him
 #### - ⚡ Fun facts: I build a company for my mom and give it to her as a Mothers Day gift. I started on market with 80 reais. I love Marvel and Superheroes.
--->
+--> OPEN TO WORK
