@@ -7,7 +7,7 @@ for something else on my portfolio. 👋
 
 
 
-#### - 🔭 I’m currently working on Data Science 
+#### - 🔭 I’m currently studing Data Science 
 #### - 🌱 I’m currently learning HarvardCS50P ; MIT Linear Regression to Deep Learning
 #### - 👯 I’m looking to collaborate on Fundação Estudar
 #### - 💬 Ask me about SQL, Python, R, Algorithms, Economy, Management
