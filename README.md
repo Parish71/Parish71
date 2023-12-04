@@ -1,8 +1,5 @@
 ### Hi there, get welcome to my profile and 
 
-for something else on my portfolio. 👋
-### Visit https://www.kaggle.com/rafaelparish
-
 **Parish71/Parish71** is a ✨ _special_ ✨ repository.
 
 
