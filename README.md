@@ -1,7 +1,7 @@
 # Hello, I'm Rafael Parish. But you can call me Parish! 👋
 
 ## 🌟 Professional Profile
-Data Analysis and Software Development Specialist with over 5 years of experience. Proficient in combining advanced data analysis with the development of innovative technological solutions. Experienced in project leadership and technological strategy, focusing on efficiency and scalability. I constantly seek to understand user needs to create innovative solutions that not only meet but exceed their expectations.
+Data Analysis, Enginering and Science Specialist with over 5 years of experience. Proficient in combining advanced data analysis with the development of innovative technological solutions. Experienced in project leadership and technological strategy, focusing on efficiency and scalability. I constantly seek to understand user needs to create innovative solutions that not only meet but exceed their expectations.
 
 ## 🎓 Education
 - **Federal University of Bahia (UFBA)**: Bachelor's degree in Technological Sciences with a Specialization in Data Analysis by Google.
