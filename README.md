@@ -14,17 +14,18 @@ Data Analysis, Enginering and Science Specialist with over 5 years of experience
 ## 💼 Professional Experience
 - **Operational Vice President and Tech Leader - Startup Points**:
   - Technical and strategic leadership in an innovative project, focusing on AWS solutions and microservices.
-  - Responsible for integrating Uber API into the app to enhance user solutions.
+  - Responsible for create a amazing infrastructure in AWS with CI/CD and Governance. Creator of Databases in RDS, Athena and containerization  using ECS. 
 
 - **Founder and Business Analytics - FastFood Delivery**:
-  - Market value growth of 1300% in 5 years, implementation of BI solutions using Tableau for data visualizations and economic viability projects.
+  - Market value growth of 1300% in 5 years, implementation of BI solutions using Tableau, Google Sheets and SQL for data visualizations and economic viability projects.
 
 - **Freelance Financial Analyst**:
   - Financial data analysis and risk management strategies using Python.
   - Implementation of The Magic Formula stock recommendation algorithm based on Joel Greenblatt's book.
 
 ## 🚀 Extracurricular Activities
-- Introduction to Economics and Economic Projects Monitor (UFBA).
+- Introduction to Economics Monitor(UFBA).
+- Economic Projects Monitor (UFBA).
 - Multiplier at the Estudar Foundation.
 - Mentor/Team Leader at the Estudar Foundation.
 
