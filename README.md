@@ -39,11 +39,12 @@ Data Analysis, Enginering and Science Specialist with over 5 years of experience
 - **[NeuronNP - AI Neuron Project]**: Prototyped an AI neuron project using matrix correlation calculation.
 - **[The Magic Formula - AWS Infrastructure]**: Developed a robust infrastructure using AWS to support "The Magic Formula."
 - **[Stock Recommendation Algorithm with 40% Annual Yield (Python)]**: Created an effective Python algorithm for stock recommendation.
-- **[Harvard Notebook - Final Development Project]**: Currently in development, a final Python project for the Harvard course.
+- **[Harvard Notebook - Final Development Project]**: My activities for Harvard
 - **[AutoAbordeAPP - Python Automation]**: Developed an automation project using Python and Pylance.
 - **[ERP & POS Dashboards - Google Sheets, Power BI, and Tableau]**: Developed effective dashboards for ERP and POS.
 - **[Recommendation and Classification: Machine Learning on Books Dataset - Python]**: Implemented a machine learning model for recommendation and classification.
 - **[E-commerce and Institutional Websites - HTML and CSS/Visual Studio, Github, and Figma]**: Developed e-commerce and institutional websites.
+- **[J.A.R.V.I.S - IA Voice Assistant with Python]** : Final Project for Harvard CS50 
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/rfparish/
