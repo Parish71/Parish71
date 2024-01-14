@@ -9,7 +9,7 @@ Data Analysis, Enginering and Science Specialist with over 5 years of experience
   - Google Data Analyst
   - Google Foobar Challenge (Python)
   - XP AWS Cloud Professional
-  - Harvard CS50P: Computer Science Specialization (Ongoing)
+  - Harvard CS50P: Computer Science Specialization
 
 ## 💼 Professional Experience
 - **Operational Vice President and Tech Leader - Startup Points**:
