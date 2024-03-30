@@ -36,8 +36,9 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<ul class="links">
-							<li class="active"><a href="index.html">This is Massively</a></li>
-							<li><a href="generic.html">Generic Page</a></li>
+							<li class="active"><a href="index.html"> My Projects</a></li>
+							<li><a href="generic.html">My Philosophy</a></li>
+							<li><a href="elements.html">Elements Reference</a></li>
 							<li><a href="elements.html">Elements Reference</a></li>
 						</ul>
 						<ul class="icons">
@@ -54,19 +55,50 @@
 						<!-- Featured Post -->
 							<article class="post featured">
 								<header class="major">
-									<span class="date">April 25, 2017</span>
-									<h2><a href="#">In Process<br />
-									Project</a></h2>
-									<p>Actual Projects In Process:Status
-										<br />- Web Site:(45%)<br />
-										- Google Foobar Challenge 4:(90%)<br />
-										- GitHub Portfolio Publish:(30%)<br /></p>
+									<span class="date" id="current-date"></span>
 
+									<h2><a href="#">In Process<br /> 
+										Project<br />
+									</a></h2>
 								</header>
-								<a href="#" class="image main"><img src="images/pic01.jpg" alt="" /></a>
-								<ul class="actions special">
-									<li><a href="#" class="button large">SEE THE PROJECT</a></li>
-								</ul>
+								
+								<script>
+									// Get the current date
+									var currentDate = new Date();
+								
+									// Format the date
+									var formattedDate = currentDate.toLocaleDateString('en-US', {
+										year: 'numeric',
+										month: 'long',
+										day: 'numeric'
+									});
+								
+									// Update the span element with the current date
+									document.getElementById('current-date').textContent = formattedDate;
+								</script>
+								<div class="container">
+									<ul class="actions special">
+										<li>
+											<a href="#" class="image main">
+												<img src="images/pic16.png" alt="" style="width: 400px; height: auto;" />
+											</a>
+										</li>
+									</ul>
+									<p class="project-details"> 
+										<strong> Fundação Estudar Gamification:(49%)</strong><br />
+										<ul class="actions special">
+											<li><a href="#" class="button">Full Story</a></li>
+										</ul>
+									</p>
+									<p class="project-details">
+										<em>Last Projects</em><br />
+										<em>J.A.R.V.I.S Voice Controler Artificial Inteligence V1 (100%)</em><br />
+										<em>Harvard CS50P Notebook (100%)</em><br />
+										<em>Google Foobar Final Challenge:(100%)</em><br />
+									</p>
+								</div>
+								
+								
 							</article>
 
 						<!-- Posts -->
@@ -212,38 +244,57 @@
 					</div>
 
 				<!-- Footer -->
-					<footer id="footer">
+				<footer id="footer">
+					<section>
+						<form method="post" action="mailto:rafaelfparish@gmail.com">
+							<div class="fields">
+								<div class="field">
+									<label for="name">Name</label>
+									<input type="text" name="name" id="name" />
+								</div>
+								<div class="field">
+									<label for="email">Email</label>
+									<input type="text" name="email" id="email" />
+								</div>
+								<div class="field">
+									<label for="message">Message</label>
+									<textarea name="message" id="message" rows="3"></textarea>
+								</div>
+							</div>
+							<ul class="actions">
+								<li><input type="submit" value="Send Message" /></li>
+							</ul>
+						</form>
+					</section>
+					<section class="split contact">
+						<section class="alt">
+							<h3>Address</h3>
+							<p>Brazil,São Paulo. São Paulo.<br />
+							</p>
+						</section>
 						<section>
-
+							<h3>Phone</h3>
+							<p><a href="https://wa.me/5571999103476">(55) 7199910-3476</a></p>
 						</section>
-						<section class="split contact">
-							<section class="alt">
-								<h3>Address</h3>
-								<p>São Paulo, Interlagos<br />
-								</p>
-							</section>
-							<section>
-								<h3>What's App and Phone</h3>
-								<p><a href="#">+(55)7199910-3476</a></p>
-							</section>
-							<section>
-								<h3>Email</h3>
-								<p><a href="#">rafaelfparish@gmail.com</a></p>
-							</section>
-							<section>
-								<h3>Social</h3>
-								<ul class="icons alt">
-									<li><a href="#" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
-									<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
-									<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
-								</ul>
-							</section>
+						<section>
+							<h3>Email</h3>
+							<p><a href="mailto:rafaelfparish@gmail.com">rafaelfparish@gmail.com</a></p>
 						</section>
-					</footer>
+						<section>
+							<h3>Social</h3>
+							<ul class="icons alt">
+								<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+								<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+							</ul>
+						</section>
+					</section>
+				</footer>
 
 				<!-- Copyright -->
 					<div id="copyright">
-						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+						<ul><li>&copy; RAFAEL PARISH</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
 					</div>
 
 			</div>
@@ -256,5 +307,6 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+
 	</body>
 </html>

@@ -25,8 +25,8 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<ul class="links">
-							<li><a href="index.html">This is Massively</a></li>
-							<li class="active"><a href="generic.html">Generic Page</a></li>
+							<li><a href="index.html"> My Projects</a></li>
+							<li class="active"><a href="generic.html">My Philosophy</a></li>
 							<li><a href="elements.html">Elements Reference</a></li>
 						</ul>
 						<ul class="icons">
@@ -43,24 +43,39 @@
 						<!-- Post -->
 							<section class="post">
 								<header class="major">
-									<span class="date">April 25, 2017</span>
-									<h1>This is a<br />
-									Generic Page</h1>
-									<p>Aenean ornare velit lacus varius enim ullamcorper proin aliquam<br />
-									facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor<br />
-									amet nullam sed etiam veroeros.</p>
+									<span class="date" id="current-date"></span>
+									<h1>My lens of<br />
+									the World</h1>
+									<p>Welcome to my world, where ideas flourish and decisions are purpose-driven. <br />
+									I value structured thinking and the pursuit of eudaemonia, believing life is about thriving with authenticity and integrity. <br />
+									Let's explore the realms of possibility together, driven by curiosity and the desire to make a meaningful impact.</p>
 								</header>
-								<div class="image main"><img src="images/pic01.jpg" alt="" /></div>
-								<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur sapien risus, commodo eget turpis at, elementum convallis enim turpis, lorem ipsum dolor sit amet nullam.</p>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus. Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum.</p>
+								<div class="image main"><img src="images/pic15.png" alt="" /></div>
+								<h4>Structured and Data-Driven Thinking</h4>
+								<p>In today's world, where information is abundant and decisions are often data-driven, adopting a structured thinking approach is essential. Just as Google teaches through Google Analytics, I recognize the importance of systematically and objectively analyzing information to make informed and effective decisions. Structured thinking enables me to assess challenges with clarity, identify patterns and trends, and implement solutions based on solid evidence. By incorporating this mindset into my work, I aim not only to achieve results but also to optimize processes and maximize the impact of my actions. With a commitment to ongoing data analysis and a structured approach, I am empowered to tackle the challenges of the digital world intelligently and innovatively.</p>
+								<h4>Eudaemonia and the Essence of Human Being</h4>
+								<p>The philosophy of eudaemonia, based on Sartre's existentialism and the premise of NLP that "if one human being was capable of doing it, everyone is," guides my personal and professional journey. For me, eudaemonia goes beyond the pursuit of fleeting pleasures or material success; it is about realizing the deepest and most authentic human potential. Inspired by the belief that each individual possesses a unique and invaluable essence, I strive to cultivate a sense of purpose and meaning in all my endeavors. I recognize the radical freedom of choice that each of us possesses and embrace the responsibility to create my own existence with integrity and authenticity. By embracing the philosophy of eudaemonia, I commit to seeking not only superficial happiness but rather a fulfilling life connected to my deepest values and positively contributing to the world around me.</p>
 							</section>
-
+							<script>
+								// Get the current date
+								var currentDate = new Date();
+							
+								// Format the date
+								var formattedDate = currentDate.toLocaleDateString('en-US', {
+									year: 'numeric',
+									month: 'long',
+									day: 'numeric'
+								});
+							
+								// Update the span element with the current date
+								document.getElementById('current-date').textContent = formattedDate;
+							</script>
 					</div>
 
 				<!-- Footer -->
 					<footer id="footer">
 						<section>
-							<form method="post" action="#">
+							<form method="post" action="mailto:rafaelfparish@gmail.com">
 								<div class="fields">
 									<div class="field">
 										<label for="name">Name</label>
@@ -83,16 +98,16 @@
 						<section class="split contact">
 							<section class="alt">
 								<h3>Address</h3>
-								<p>1234 Somewhere Road #87257<br />
-								Nashville, TN 00000-0000</p>
+								<p>Brazil,São Paulo. São Paulo.<br />
+								</p>
 							</section>
 							<section>
 								<h3>Phone</h3>
-								<p><a href="#">(000) 000-0000</a></p>
+								<p><a href="https://wa.me/5571999103476">(55) 7199910-3476</a></p>
 							</section>
 							<section>
 								<h3>Email</h3>
-								<p><a href="#">info@untitled.tld</a></p>
+								<p><a href="mailto:rafaelfparish@gmail.com">rafaelfparish@gmail.com</a></p>
 							</section>
 							<section>
 								<h3>Social</h3>
@@ -107,9 +122,9 @@
 					</footer>
 
 				<!-- Copyright -->
-					<div id="copyright">
-						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
-					</div>
+				<div id="copyright">
+					<ul><li>&copy; RAFAEL PARISH</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+				</div>
 
 			</div>
 
