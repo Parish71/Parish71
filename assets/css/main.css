@@ -4686,4 +4686,18 @@ input, select, textarea {
 			visibility: visible;
 		}
 
+		.container {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			height: 60vh; /* Optional: Adjust the height as needed */
+			flex-direction: column; /* Stack items vertically */
+			text-align: center; /* Center-align text */
+		}
+		
+		.project-details {
+			margin-top: 20px; /* Adjust spacing between image and project details */
+		}
+
+
 	}
