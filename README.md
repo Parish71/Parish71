@@ -63,4 +63,4 @@ Data Analysis, Enginering and Science Specialist with over 5 years of experience
 - LinkedIn: https://www.linkedin.com/in/rfparish/
 - Email: rafaelfparish@gmail.com
 - What's App: +5571999103476
-- wa.me: 
+- wa.me: https://wa.me/5571999103476
